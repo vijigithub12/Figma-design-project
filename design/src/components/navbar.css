@@ -1,0 +1,12 @@
+.h1{
+    font-family: Numans;
+    background: linear-gradient(180deg, rgba(143, 32, 229, 0.70) 30.42%, #ED24CD 63.75%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+   
+
+}
+.s1{
+    border: none;
+}

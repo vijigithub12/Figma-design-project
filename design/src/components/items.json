@@ -1,0 +1,54 @@
+[
+    {
+      "id": 1,
+      "imgSrc": "images/c-1.png",
+      "name": "Cathrine"
+    },
+    {
+      "id": 2,
+      "imgSrc": "images/c-2.png",
+      "name": "UX Star"
+    },
+    {
+      "id": 3,
+      "imgSrc": "images/c-3.png",
+      "name": "Julie Mirza"
+    },
+    {
+      "id": 4,
+      "imgSrc": "images/c-4.jpeg",
+      "name": "Illustration"
+    },
+    {
+      "id": 5,
+      "imgSrc": "images/c-5.jpeg",
+      "name":   "  Artist"
+    },
+    
+    {
+      "id": 6,
+      "imgSrc": "images/f-1.png",
+      "name":   "Jason haider"
+    },
+    {
+      "id": 7,
+      "imgSrc": "images/f-2.jpeg",
+      "name":   "Ux wing"
+    },
+    {
+      "id": 8,
+      "imgSrc": "images/f-6.jpeg",
+      "name":   "Twin Ui"
+    },
+    {
+      "id": 9,
+      "imgSrc": "images/f-4.jpeg",
+      "name":   "Art Academy"
+    },
+    {
+      "id": 10,
+      "imgSrc": "images/f-5.jpeg",
+      "name":   "  Artist"
+    }
+  ]
+  

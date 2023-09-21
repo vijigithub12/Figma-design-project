@@ -1,0 +1,9 @@
+.p1{
+    font-family: Roboto;
+line-height: normal;
+}
+.p2{
+    border-radius: 0rem 0rem 0.9375rem 0.9375rem;
+background: rgba(193, 30, 30, 0.3);
+backdrop-filter: blur(25px);
+}

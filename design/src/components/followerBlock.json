@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "imgSrc":"images/f1.png",
+        "name":"Jason haider",
+        "email":"@jaisen_haider"
+    },
+    {
+        "id":2,
+        "imgSrc":"images/f-2.jpeg",
+        "name":"ux wing",
+        "email":"@ux_wing"
+
+    },
+    {
+        "id":3,
+        "imgSrc":"images/f-3.jpeg",
+        "name":"Illustration",
+        "email":"@illu_work"
+
+    },
+    {
+        "id":4,
+        "imgSrc":"images/f-4.jpeg",
+        "name":"Art academy",
+        "email":"@art_work"
+
+    }
+   
+]
+

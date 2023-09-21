@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "iconSrc":"images/bookmark.png",
+        "text":"Bookmarks"
+    },
+    {
+        "id":2,
+        "iconSrc":"images/message.png",
+        "text":"Message"
+    },
+    {
+        "id": 3,
+        "iconSrc": "images/notification1.png",
+        "text": "Notifications"
+      },
+      {
+        "id": 4,
+        "iconSrc": "images/settings.png",
+        "text": "Settings"
+      },
+      {
+        "id": 5,
+        "iconSrc": "images/profile.png",
+        "text": "Profile"
+      }
+]

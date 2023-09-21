@@ -1,0 +1,27 @@
+[
+  {
+  "id": 1,
+  "imageUrl": "images/u-1.jpeg",
+  "userName": "UXUI Topics",
+  "userHandle": "@Topics_ui",
+  "description": "Realistic UI design in mobile application..",
+  "hashtags": "#uxui #uidesign #application",
+  "likes": "14K",
+  "comments": "2.2K",
+  "imageSrc": "images/s-1.jpeg",
+  "datePosted": "2 days ago"
+  },
+  {
+    "id": 2,
+    "imageUrl": "images/f-4.jpeg",
+    "userName": "Art Academy",
+    "userHandle": "@Artist",
+    "description": "Flower drawing & painting, Artist :",
+    "hashtags": "#@Hameed #Art #Artist #Painting",
+    "likes": "14K",
+    "comments": "2.2K",
+    "imageSrc": "images/post.png",
+    "datePosted": "2 days ago"
+    }
+  ]
+  
