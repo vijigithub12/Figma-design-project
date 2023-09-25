@@ -12,7 +12,7 @@ const Home = () => {
         </div>
         <div className="flex  justify-start">
           <Sidebar />
-          <div className="overflow-y-auto h-[600px] scrollbar-hide flex-1">
+          <div className="overflow-y-auto h-[800px] scrollbar-hide flex-1">
             <Center />
           </div>
           <div>
